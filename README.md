@@ -36,7 +36,7 @@ Deadlock-Avoidance-System/
 ## How to Run
 
 **1. Clone the repository**
-git clone https://github.com/YOUR-USERNAME/Deadlock-Avoidance-System.git
+git clone https://github.com/YOUR-USERNAME/Deadlock-Avoidance-System-using-Banker-Algorithm.git
 
 **2. Navigate to the project folder**
 cd Deadlock-Avoidance-System
